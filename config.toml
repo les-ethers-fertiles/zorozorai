@@ -9,7 +9,7 @@ theme = "reveal-hugo"
 # uglyURLs = true
 
 [author]
-name = "Josh Dzielak"
+name = "Association TeDua"
 
 # currently only the unsafe mode for goldmark is supported
 [markup.goldmark.renderer]
@@ -29,6 +29,9 @@ isHTML = true
 
 [params.reveal_hugo]
 history = true
+#slide_number = true
+#transition = 'zoom'
+#transition_speed = 'fast'
 
 # used in content/template-example
 [params.reveal_hugo.templates.grey]
