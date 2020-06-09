@@ -28,8 +28,7 @@ Sa famille l'a nommé : **<strong>ZORO ZORAï</strong>**.<br> L'association TeDu
 {{< slide background-image="/images/ciel.jpg" >}}
 
 ---
-
-
+<!--{{< slide id="iero" >}}-->
 {{< slide background-image="/images/accueil.jpg" >}}
 
 
