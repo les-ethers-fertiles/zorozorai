@@ -53,7 +53,7 @@ Sa famille l'a nommé : **<strong>ZORO ZORAï</strong>**.<br> L'association TeDu
 
 {{< slide background-color="#ad1e17" >}}
 
-<h2> <a href="http://localhost:1313/#/5" style="color:black"> <u> > Des ténèbres au ciel... < </u></a> <h2>
+<h2> <a href="https://zorozorai.land/#/5" style="color:black"> <u> > Des ténèbres au ciel... < </u></a> <h2>
 
 {{% /section %}}
 
