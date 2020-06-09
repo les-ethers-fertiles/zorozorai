@@ -11,7 +11,7 @@ weight = 15
 
 ---
 
-{{< slide background-color="#29b510" id="la-maison-tedua">}}
+{{< slide background-color="#29b510" id="celeste">}}
 <h3> <a style="color:white"> L' association TeDua</a> </h3>
 
 <p style="font-size:20px;color:white;"> <i>"Te Dua veut dire je t'aime."</i> </p> <br>
@@ -25,33 +25,32 @@ Sa famille l'a nommé :<br>
 
 ---
 
-{{< slide background-image="/images/ciel.jpg" >}}
+{{< slide background-image="/images/ciel.jpg" id="vers-les-cieux" >}}
 
 ---
 
-{{< slide background-image="/images/accueil.jpg" id="yero" >}}
+{{< slide background-image="/images/milieu.jpg" id="yero" >}}
 
 
 ---
 
-{{< slide background-image="/images/terre.jpg" >}}
+{{< slide background-image="/images/terre.jpg" id="sous-terre" >}}
 
 ---
 
 {{< slide background-color="#3256a8" id="le-champ-des-desirs">}}
 ### Projets
-*"le champ des désirs..."*
-<br><br><br>
+<br>
 
-- la Discipline du Jeu
-- le déploiement de <a href="https://www.association-tedua.fr/" target="_blank">l'École TeDua</a> 
-- de la maison collective au Château-Phare
-- "déconceptualiser le <a href="https://blog.association-tedua.fr" target="_blank">vivre ensemble</a>"  
-- la place de l'Autre
+- **la Discipline du Jeu**
+- **le déploiement de** <a href="https://www.association-tedua.fr/" target="_blank"><u>l'École TeDua</u></a> 
+- **de la maison collective au Château-Phare**
+- **"déconceptualiser le** <a href="https://blog.association-tedua.fr" target="_blank"><u>vivre ensemble</u></a> **"** 
+- **la place de l'Autre**
 
 ---
 
-{{< slide background-color="#ad1e17" >}}
+{{< slide background-color="#ad1e17" id="zor">}}
 
 <h3> <a href="https://zorozorai.land/#/yed-yero-r-yero" style="color:black">  > <u>Des ténèbres au ciel...</u> < </a> </h3>
 

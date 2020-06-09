@@ -2,7 +2,7 @@
 weight = 20
 +++
 
-{{< slide background-color="#000000" >}}
+{{< slide background-color="#3256a8" >}}
 <h4>Depuis ses <a href="https://vimeo.com/425954541"target="_blank">ses premières rencontres </a>avec le public, une mythologie se construit...</h4>
 
 
