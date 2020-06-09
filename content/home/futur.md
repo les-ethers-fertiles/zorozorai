@@ -27,4 +27,4 @@ weight = 20
 {{< slide background-image="/images/mythologie4.jpg" >}}
 
 ---
-#### [Ici, retour au milieu.](#/5/3)
+#### [Ici, retour au milieu.](#/yero)

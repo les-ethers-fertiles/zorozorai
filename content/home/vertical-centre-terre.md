@@ -6,30 +6,30 @@ weight = 15
 {{% section %}}
 
 
-{{< slide background-image="/images/dansleciel.jpg" >}}
-<h2> <a href="http://localhost:1313/#/5/1" style="color:black"> > ...quel pas y a-t-il à faire? < </a> </h2>
+{{< slide id="yed-yero-r-yero" background-image="/images/fond-ciel.jpg" >}}
+<h3 style="color:white;"> > <a href="https://zorozorai.land/#/la-maison-tedua" style="color:white;"> <u>...quel pas y a-t-il à faire ?</u> </a> < </h3>
 
 ---
 
-{{< slide background-color="#000000" >}}
+{{< slide background-color="#29b510" id="la-maison-tedua">}}
+<h3> <a style="color:white"> L' association TeDua</a> </h3>
 
-#### L'association TeDua
-<p style="font-size:20px;"><i>"Te Dua veut dire je t'aime..."</i></p>
-<p style="font-size:25px;">À l'origine de cette naissance,   
+<p style="font-size:20px;color:white;"> <i>"Te Dua veut dire je t'aime."</i> </p> <br>
+<p style="font-size:30px;color:white;">À l'origine de cette naissance,   
 une main tendue au désarroi d'un homme qui hurlait les larmes de détresse des malheurs du monde.<br>  
 Cette main l'a recueilli, le libérant de lui-même;<br>  
-lui ouvrant alors la voie de la sublimation en de multiples formes de jeu.<br>  
-Quand l'homme est mort, un clown est né.<br>  
-Sa famille l'a nommé : **<strong>ZORO ZORAï</strong>**.<br> L'association TeDua est sa maison...</p> 
-<iframe src="https://player.vimeo.com/video/394207199" width="570" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+lui ouvrant alors la voie de la sublimation en de multiples formes de jeu.<br><br>  
+Quand l'homme est mort, <a href="https://zorozorai.land/#/naissance" target="_blank"><u>un clown est né</u></a>.<br>
+Sa famille l'a nommé :<br>
+**<strong>ZORO ZORAï</strong>**.<br><br> <a href="https://association-tedua.fr"target="_blank"><u>L' association TeDua</u></a> est sa maison...</p> 
 
 ---
 
 {{< slide background-image="/images/ciel.jpg" >}}
 
 ---
-<!--{{< slide id="iero" >}}-->
-{{< slide background-image="/images/accueil.jpg" >}}
+
+{{< slide background-image="/images/accueil.jpg" id="yero" >}}
 
 
 ---
@@ -38,6 +38,7 @@ Sa famille l'a nommé : **<strong>ZORO ZORAï</strong>**.<br> L'association TeDu
 
 ---
 
+{{< slide background-color="#3256a8" id="le-champ-des-desirs">}}
 ### Projets
 *"le champ des désirs..."*
 <br><br><br>
@@ -52,7 +53,7 @@ Sa famille l'a nommé : **<strong>ZORO ZORAï</strong>**.<br> L'association TeDu
 
 {{< slide background-color="#ad1e17" >}}
 
-<h2> <a href="https://zorozorai.land/#/5" style="color:black"> <u> > Des ténèbres au ciel... < </u></a> <h2>
+<h3> <a href="https://zorozorai.land/#/yed-yero-r-yero" style="color:black">  > <u>Des ténèbres au ciel...</u> < </a> </h3>
 
 {{% /section %}}
 
