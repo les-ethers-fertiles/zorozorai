@@ -7,7 +7,7 @@ weight = 15
 
 
 {{< slide id="yed-yero-r-yero" background-image="/images/fond-ciel.jpg" >}}
-<h3 style="color:white;"> > <a href="https://zorozorai.land/#/la-maison-tedua" style="color:white;"> <u>...quel pas y a-t-il à faire ?</u> </a> < </h3>
+<h3 style="color:white;"> > <a href="https://zorozorai.land/#/celeste" style="color:white;"> <u>...quel pas y a-t-il à faire ?</u> </a> < </h3>
 
 ---
 
