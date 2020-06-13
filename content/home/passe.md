@@ -9,19 +9,19 @@ weight = 10
 
 --- 
 
-{{< slide background-color="#3256a8" >}}
+{{< slide background-color="#1ce852" >}}
 
 <iframe src="https://player.vimeo.com/video/425954541" width="1200" height="700" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ---
 
-{{< slide background-color="#91b1fa" >}}
+{{< slide background-color="#8cfaa0" >}}
 
 <iframe src="https://player.vimeo.com/video/393983256" width="1200" height="700" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 ---
 
-{{< slide background-color="#ffffff" id="naissance" >}}
+{{< slide background-color="#d9ffe0" id="naissance" >}}
 
 <iframe src="https://player.vimeo.com/video/394207199" width="1200" height="700" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
@@ -32,5 +32,9 @@ weight = 10
 ---
 
 {{< slide background-color="#000000" id="rdv-au-milieu" >}}
-<h5> <a href="https://zorozorai.land/#/yero" >  > <u>rendez-vous au milieu</u>  < </a> </h5>
+<h2> <a href="https://zorozorai.land/#/yero">  > <u>Le milieu est juste là.</u>  < </a> </h2>
+<br><br>
+<h4 style="color:white;"> <<< Ou alors, voyez par là.   </h4>
+<br><br>
+<h5 style="color:grey;"> Ou alors..  </h5>
 
