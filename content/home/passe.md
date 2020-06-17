@@ -33,7 +33,7 @@ weight = 10
 {{< slide background-color="#000000" id="carrefour...avez-vous-visionné-à-gauche..." >}}
 <h2> <a href="https://zorozorai.land/#/yero">  > <u>Le milieu est juste là.</u>  < </a> </h2>
 <br><br>
-<h4 style="color:white;"> <<< Ou alors, voyez par là.   </h4>
+<h4 style="color:grey;"> <<< Ou alors, voyez par là.   </h4>
 <br><br>
-<h5 style="color:grey;"> Ou alors..  </h5>
+<h5 style="color:white;"> Ou alors..  </h5>
 
