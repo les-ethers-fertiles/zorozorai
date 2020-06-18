@@ -6,7 +6,7 @@ weight = 20
 {{% section %}}
 
 {{< slide background-image="/images/fond-ciel.jpg" id="yed-yero-r-yero" >}}
-<h3 style="color:white;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> <a href="https://zorozorai.land/#/celeste" style="color:white;"> <u>...quel pas y a-t-il à faire ?</u> </a> < </h3>
+<h3 style="color:white;"> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;> <a href="https://zorozorai.land/#/celeste" style="color:white;"> <u>Vers la maison céleste</u> </a> < </h3>
 
 ---
 
@@ -51,7 +51,7 @@ Sa famille l'a nommé :<br>
 
 {{< slide background-color="#000000" id="zor">}}
 
-<h3> <a href="https://zorozorai.land/#/yed-yero-r-yero" style="color:white">  > <u>Des ténèbres au ciel...</u> < </a> </h3>
+<h3> <a href="https://zorozorai.land/#/yed-yero-r-yero" style="color:white">  > <u>Directement tout en haut</u> < </a> </h3>
 
 {{% /section %}}
 
