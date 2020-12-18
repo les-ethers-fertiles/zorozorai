@@ -7,7 +7,7 @@ weight = 35
 {{% section %}}
 
 {{< slide background-image="/images/mythologie3.jpg" >}}
-<br><p style="font-size:30px;text-align:center;"><b>L’histoire du phare flottant avait déjà commencé. <br><a href="#/10/1">SON GARDIEN Y VIT DEPUIS TOUJOURS...</a></b></p>
+<br><p style="font-size:40px;text-align:center;"><b>L’histoire du phare flottant avait déjà commencé. <br><a href="#/10/1">SON GARDIEN Y VIT DEPUIS TOUJOURS...</a></b></p>
 <br><br><br>
 
 ---

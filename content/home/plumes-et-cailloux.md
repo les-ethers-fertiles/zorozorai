@@ -9,7 +9,7 @@ weight = 33
 {{< slide background-image="/images/mythologie2.jpg" >}}
 <br><br><br><br><br><br><br>
 
-<br><p style="font-size:30px;text-align:center;"><b>Ils se réunirent, <br> et comptèrent les plumes et les cailloux. <br><br><a href="#/10/1">[ ... 11H41, le 17 MARS ... ]</a></b></p>
+<br><p style="font-size:50px;text-align:center;"><b>Ils se réunirent, <br> et comptèrent les plumes et les cailloux. <br><br><a href="#/9/1">[ ... 11H41, le 17 MARS ... ]</a></b></p>
 
 ---
 
