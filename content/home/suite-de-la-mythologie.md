@@ -2,9 +2,8 @@
 weight = 38
 +++
 
-
-
-{{< slide background-image="/images/mythologie4.jpg" >}}
+<br><p style="font-size:40px;text-align:center;"><b><i>[les textes qui parlent de la sorcière sont en cours de retranscription]</i></b></p>
+<br><br><br>
 
 ---
 

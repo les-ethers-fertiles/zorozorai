@@ -6,7 +6,7 @@ weight = 33
 
 {{% section %}}
 
-{{< slide background-image="/images/mythologie2.jpg" >}}
+{{< slide background-image="/images/mythologie2.jpg" id="la-comptabilite-des-plumes-et-des-cailloux" >}}
 <br><br><br><br><br><br><br>
 
 <br><p style="font-size:50px;text-align:center;"><b>Ils se réunirent, <br> et comptèrent les plumes et les cailloux. <br><br><a href="#/9/1">[ ... 11H41, le 17 MARS ... ]</a></b></p>
