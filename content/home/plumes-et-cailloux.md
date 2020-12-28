@@ -15,9 +15,10 @@ weight = 33
 
 <a href="#/9"><p style="font-size:20px;text-align:center;">< < < [... "ILS SE RÉUNIRENT ET COMPTÈRENT" ...]</p></a>
 
- <h4>11h41, le 17 mars &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<audio controls>
-  <source src="/images/audios/plumes_cailloux_1er_texte.mp3" type="audio/mpeg">
-</audio></h4>
+ <h4>11h41, le 17 mars</h4>
+	<audio controls>
+   		<source src="/images/audios/plumes_cailloux_1er_texte.mp3" type="audio/mpeg">
+	</audio>
 
 <p style="font-size:25px;text-align:left;">La nouvelle vient de tomber. Ma hiérarchie vient me retrouver ce soir... Toute l'équipe de managers sera là. C'est un peu la panique à bord... J'ai laissé rentrer beaucoup trop d'air. Ce phare lâché a plus sifflé la mélodie de l'innocence que je n'ai cherché à compter les plumes et les cailloux... Et un bruit court, chante, qu'ils viendraient pour me sortir de cette tâche qui ne pouvait être la mienne.<br>
 Ouf !! Je vais pouvoir souffler, pour me laisser pousser par ce geste. <br><br>Est-ce qu'ils réussiront à comprendre la nature des plumes et des cailloux? Que faudrait-il qu'ils soient pour réussir là où je n'ai fait qu'échouer? Là où je n'ai pu me résoudre à ouvrir cette malette que ZORO, paraît-il, aurait ouvert devant tous. Où tous auraient vu, ZORO ouvrir la malette, et où chacun y aurait déposé : une plume et un caillou.<br><br>
@@ -29,12 +30,11 @@ Où étais-je pour ne pas avoir vu? </p>
 
 <a href="#/9/1"><p style="font-size:20px;text-align:center;">< < < [... 11H41, LE 17 MARS ...]</p></a>
 
-<h4>22h41, le 17 Mars &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<h4>22h41, le 17 Mars </h4>
 	<audio controls>
   		<source src="/images/audios/plumes_cailloux_2eme_texte.mp3" type="audio/mpeg">
 	</audio>
-</h4>
+
 
 <p style="font-size:23px;text-align:left;">Je suis pour la première fois sorti par la porte du phare. J'observe d'ici les navires vides amarrés au phare. Arrêtant de le garder. Car ces navires sont suffisamment robustes pour assurer la sécurité. Même si le sentiment de mélancolie n'appelait aucune joie cette fois-ci. Les voyageurs, eux, sont entrés dans le phare, par la porte. J'ai dû sortir pour qu'ils comptent et établissent le résultat. Me donneront-ils la recette? Ou devrais-je demeurer à être simple gardien de ce phare libre, équilibré, acceptant vagues mortelles comme infinie immobilité? Ce gardien qui ne sert à rien. <br>Puisque ce phare est en une seule et même harmonie, aussi léger et intouchable que la légèreté de l'être, aussi lourd et stable que la dévotion à la vie. Je suis donc bien le gardien d'un phare qui n'a besoin de personne pour être gardé. C'est pour cela que j'aime m'échapper par le balcon en suivant un sifflement du vent. <br><br>De toute façon, la lumière du phare m'indiquera toujours où je peux m'endormir, en lui, en cela. Ne pouvant craindre la liberté puisqu'il en est le symbole. Et si un jour il s'écroule, par exemple se fracassant sur une côte, alors la lumière ne fera que rejoindre les autres étoiles. Et ZOR chutera dans le sommeil profond. Seul endroit où la lourdeur de sa paix fera juste couler les larmes pour y vivre sa joie !</p>
 

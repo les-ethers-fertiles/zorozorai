@@ -17,8 +17,9 @@ weight = 35
 <br><br><br>
    
 Cette section regroupe une série de 15 textes   
-issus du journal intime du Gardien du Phare.   
-En attendant leur publication en bonne et dûe forme sur ce site, vous pouvez les lire [par ici, dans cet article du journal de bord de l'association TeDua](https://blog.association-tedua.fr/accueil/creation_15-textes-issus-du-journal-intime-du-gardien-du-phare), qui nourrit et diffuse *La Mythologie du Phare*.
+issus du journal intime du Gardien du Phare Flottant.   
+<br>
+En attendant leur publication en bonne et dûe forme sur ce site, vous pouvez les lire [par ici, dans cet article du journal de bord de l'association TeDua](https://blog.association-tedua.fr/accueil/creation_15-textes-issus-du-journal-intime-du-gardien-du-phare), qui nourrit et diffuse *La Mythologie du Phare Flottant*.
 
 
 {{% /section %}}
