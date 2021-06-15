@@ -38,7 +38,7 @@ Sa famille l'a nommé :<br>
 ne peut échapper<br> à notre regard.<br> Mais on ne peut non plus échapper au sien.<br> 
 Et la vague qu’il reçoit du public<br> crée le premier mouvement.<br>Ce clown : c’est Zoro Zoraï,<br> le premier protagoniste de <br>la Mythologie du 
 Phare Flottant*.<br>Parce qu’il a reçu son nom<br> d’un autre, de Quatre* autres même,<br> il s’est vêtu de leur espoir<br> en même temps qu’il en est né.<br> Et depuis ce nom, Zoro Zoraï,<br> il s’est mis à porter une parole<br> qui jette des ponts entre les mondes,<br> à l’heure où les bruits courent que...</p>
-<p style="font-size:30px;text-align:left;"><strong>><a href="#/espace-pros" target="_blank">PROGRAMMER LE SPECTACLE</a></strong></p>
+<p style="font-size:30px;text-align:left;"><strong>><a href="https://cloud.cestlebouquet.fr/index.php/s/YyCtLPrfGg24H9o" target="_blank">PROGRAMMER LE SPECTACLE</a></strong></p>
 
 
 ---
