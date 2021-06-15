@@ -2,11 +2,8 @@
 weight = 38
 +++
 
-<br><p style="font-size:40px;text-align:center;"><b><i>[les textes qui parlent de la sorcière sont en cours de retranscription]</i></b></p>
-<br><br><br>
 
----
+{{< slide background-color="#ad1e17" id="#/retour-au-debut" >}}
 
-{{< slide background-color="#ad1e17" id="retour-au-milieu" >}}
-<h5> <a href="https://zorozorai.land/#/yero" style="color:white" >  > <u>Retour au milieu</u>  < </a> </h5>
-
+<h5 style="text-align:left;">   L'écriture de la Mythologie du Phare Flottant <br>se poursuit en ce moment-même. <a href="https://blog.association-tedua.fr" target="_blank" style="color:white;"> <br><u>Bienvenue à toi. </a> </u></h5><br><br><br><br>
+<h5 style="text-align:right;">   Retour au <a href="#/" style="color:white;">> <u>début.</u> </a> </h5>

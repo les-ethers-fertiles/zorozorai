@@ -24,6 +24,15 @@ body {
   background-color: #fff;
   color: #000; }
 
+p.colorred {
+  color: #f4675e;
+  }
+
+.coloryellow {
+  color: #f5b947;
+}
+
+
 /*********************************************
  * VIEW FRAGMENTS
  *********************************************/
